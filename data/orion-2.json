@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "orion",
+  "address": "0xa270bb1241FF428927406e5Fde47e7EA8592aFb1",
+  "risk": "2",
+  "title": "Broken access control when setting the local domain",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/2"
+}
