@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "2",
+  "title": "ConnextPriceOracle doesn't get price for tokens with decimals higher than 18",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/12"
+}
