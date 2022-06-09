@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "ch13fd357r0y3r",
+  "address": "0xBA23dfd7cCCD3587A1b8909dd5BcCfD92aCeAE6f",
+  "risk": "3",
+  "title": "Double Initialize on Diamond Init",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/5"
+}
