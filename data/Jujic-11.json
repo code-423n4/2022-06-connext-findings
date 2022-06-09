@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "2",
+  "title": "Chainlink's latestRoundData might return stale or incorrect results",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/11"
+}
