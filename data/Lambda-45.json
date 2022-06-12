@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "Lambda",
+  "address": "0xEfC711B22F4fDbCBC221aC7c116e90c699D0b708",
+  "risk": "3",
+  "title": "Rescind of DiamondCut does not work",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/45"
+}
