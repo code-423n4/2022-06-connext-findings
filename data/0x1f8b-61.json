@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "0x1f8b",
+  "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
+  "risk": "2",
+  "title": "Denial of service with tokens with > 18 decimals",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/61"
+}
