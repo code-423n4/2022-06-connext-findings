@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "Price Oracle's latestRoundData may return stale or incorrect results",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/85"
+}
