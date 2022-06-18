@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "hansfriese",
+  "address": "0xf2dCB1d3B7091Dcf2cE87aD115377C108ebE6DD4",
+  "risk": "2",
+  "title": "In StableSwapFacet, users can't withdraw their tokens in case of emergencies.",
+  "issueId": 134,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/134"
+}
