@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "Chainlink's `latestRoundData` might return stale or incorrect results",
+  "issueId": 203,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/203"
+}
