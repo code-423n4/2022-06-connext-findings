@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "attacker can perform griefing for process() in PromiseRouter by reverting calls to callback() in callbackAddress",
+  "issueId": 225,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/225"
+}
