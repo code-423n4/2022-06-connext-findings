@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "BowTiedWardens",
+  "address": "0x644AEDa9E5797474B28A656d9e2016A927B0aE1B",
+  "risk": "2",
+  "title": "Approving from non-zero to non-zero allowance will revert with OZ's `safeApprove()`",
+  "issueId": 275,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/275"
+}
