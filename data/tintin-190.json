@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "tintin",
+  "address": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
+  "risk": "2",
+  "title": "Chainlink oracle aggregator data is insufficiently validated in `ConnextPriceOracle.sol`",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/190"
+}
