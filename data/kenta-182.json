@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "kenta",
+  "address": "0xE85D65E3927451cCC130457e75bF83ee1a5B85c6",
+  "risk": "2",
+  "title": "Underflow if TOKEN DECIMALS are greater than 18",
+  "issueId": 182,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/182"
+}
