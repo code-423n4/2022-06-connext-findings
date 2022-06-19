@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833D7Dee997d7D347e2634C9CEF",
+  "risk": "3",
+  "title": "_handleExecuteTransaction may not working correctly on fee-on-transfer tokens. Moreover, if it is failed, fund may be locked forever.",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/196"
+}
