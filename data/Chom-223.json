@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833D7Dee997d7D347e2634C9CEF",
+  "risk": "3",
+  "title": "Current implementation of arbitrary call execute failure handler may break some use case for example NFT bridge.",
+  "issueId": 223,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/223"
+}
