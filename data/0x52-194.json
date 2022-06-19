@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "0x52",
+  "address": "0x522DFfc539c264A8f7E0B91102E899b33f4DAbc3",
+  "risk": "2",
+  "title": "Native MATIC has contract address on Polygon",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/194"
+}
