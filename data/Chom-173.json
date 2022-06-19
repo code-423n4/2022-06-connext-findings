@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833D7Dee997d7D347e2634C9CEF",
+  "risk": "2",
+  "title": "safeApprove, safeIncreaseAllowance and safeDecreaseAllowance will be failed if allowance is not zero",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/173"
+}
