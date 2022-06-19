@@ -1,0 +1,9 @@
+{
+  "contest": 132,
+  "handle": "sorrynotsorry",
+  "address": "0x6262f720679C04cc7f2a14c0c03486D0287c4853",
+  "risk": "2",
+  "title": "Return value of erc20.approve is unchecked",
+  "issueId": 248,
+  "issueUrl": "https://github.com/code-423n4/2022-06-connext-findings/issues/248"
+}
