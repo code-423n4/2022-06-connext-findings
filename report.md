@@ -1,3 +1,11 @@
+---
+sponsor: "Connext"
+slug: "2022-06-connext"
+date: "2022-10-17"
+title: "Connext Amarok contest"
+findings: "https://github.com/code-423n4/2022-06-connext-findings/issues"
+contest: 132
+---
 
 # Overview
 
